@@ -1,0 +1,14 @@
+ul,
+ol {
+    background-color: #344e41;
+    color: #ffffff;
+}
+
+form {
+    color: white;
+    padding: 10px;
+}
+
+form a {
+    color: #ffffff;
+}
